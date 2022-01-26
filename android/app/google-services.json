@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117275336293",
+    "project_id": "mfauth-6c351",
+    "storage_bucket": "mfauth-6c351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117275336293:android:abe9725fcb6d89ab70f08c",
+        "android_client_info": {
+          "package_name": "com.example.multifactor_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117275336293-acod39v1ifei4s7hm7idg9rvi4l5ug91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JPfrutigZXr_F027eXi945n0F6-gOSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117275336293-acod39v1ifei4s7hm7idg9rvi4l5ug91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
